@@ -15,3 +15,5 @@ Photo wall carousel effect
         
 2.此行代码是控制旋转速度的，修改60s参数即可
  animation: run 60s linear infinite; /*animation linear是匀速运动，infinite是无限循环*/
+ 
+3.在微信里和safaris浏览器打开都是有背景音乐的。google浏览器打开可能会没有背景音乐。如果没有背景音乐打开可以换个浏览器或者自行百度google浏览器的设置问题
